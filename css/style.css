@@ -1,0 +1,13 @@
+body {
+    background-color: #f8f9fa;
+  }
+  .jumbotron {
+    background: url('https://via.placeholder.com/1500x500') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+  }
+  .album {
+    margin-bottom: 30px;
+  }
